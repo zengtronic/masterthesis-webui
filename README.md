@@ -1,24 +1,8 @@
-# balancing-web
+# Masterthesis WEBUI
+Control and telemetry dashboard/controller for my Masterthesis written in Vue.
 
-## Project setup
-```
-npm install
-```
+## Control and telemetry screen
+![webu-screen-control](https://user-images.githubusercontent.com/16278720/168484044-906ecc47-0e57-4ebb-a822-a7f396947626.PNG)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Parameter settings
+![webui-screen-parameters](https://user-images.githubusercontent.com/16278720/168484054-716f2042-2280-41a5-acfb-b839a7160e90.PNG)
