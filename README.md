@@ -1,5 +1,5 @@
 # Masterthesis WEBUI
-Control and telemetry dashboard/controller for my Masterthesis written in Vue.
+Control and telemetry dashboard/controller of my master thesis. Written in Vue.
 
 ## Control and telemetry screen
 ![webu-screen-control](https://user-images.githubusercontent.com/16278720/168484044-906ecc47-0e57-4ebb-a822-a7f396947626.PNG)
